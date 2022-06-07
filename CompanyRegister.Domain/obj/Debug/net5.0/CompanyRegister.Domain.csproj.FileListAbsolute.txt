@@ -1,0 +1,12 @@
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\bin\Debug\net5.0\CompanyRegister.Domain.deps.json
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\bin\Debug\net5.0\CompanyRegister.Domain.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\bin\Debug\net5.0\CompanyRegister.Domain.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.csproj.AssemblyReference.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.AssemblyInfoInputs.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.AssemblyInfo.cs
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\refint\CompanyRegister.Domain.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\CompanyRegister.Domain.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Domain\obj\Debug\net5.0\ref\CompanyRegister.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Application.deps.json
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Application.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Application.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Domain.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Infrastucture.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Infrastucture.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\bin\Debug\net5.0\CompanyRegister.Domain.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.csproj.AssemblyReference.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.AssemblyInfoInputs.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.AssemblyInfo.cs
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.csproj.CoreCompileInputs.cache
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.csproj.CopyComplete
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\refint\CompanyRegister.Application.dll
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\CompanyRegister.Application.pdb
+C:\Users\kulbo\Desktop\CompanyApi\CompanyRegister\CompanyRegister.Application\obj\Debug\net5.0\ref\CompanyRegister.Application.dll

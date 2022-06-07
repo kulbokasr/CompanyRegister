@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AQXiVXoum3JJUZfKAhG0KzO0OneAuQIzTI9bhxAb0X3l7bgjxU7xfBCrFzjPDmQnfsRvqyvMOSkSLbHwyZFeNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kulbo\\Desktop\\CompanyApi\\CompanyRegister\\CompanyRegister.Domain\\CompanyRegister.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kulbo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
