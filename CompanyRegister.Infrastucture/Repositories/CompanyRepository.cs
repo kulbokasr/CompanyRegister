@@ -1,4 +1,5 @@
-﻿using CompanyRegister.Domain.Interfaces;
+﻿using CompanyRegister.Domain.Dtos;
+using CompanyRegister.Domain.Interfaces;
 using CompanyRegister.Domain.Models;
 using CompanyRegister.Infrastucture.Data;
 using Microsoft.EntityFrameworkCore;
@@ -46,10 +47,22 @@ namespace CompanyRegister.Infrastucture.Repositories
             await _dataContext.SaveChangesAsync();
             return company;
         }
-        public async Task<List<Company>> GetAllCompaniesAsync()
+        public async Task<List<CompanyWithoutOwners>> GetAllCompaniesAsync()
         {
             List<Company> companies = await _dataContext.Companies.ToListAsync();
-            return companies;
+            List<CompanyWithoutOwners> companiesWithoutOwners = new List<CompanyWithoutOwners>();
+            foreach (Company company in companies)
+            {
+                CompanyWithoutOwners companyWithoutOwners = new CompanyWithoutOwners()
+                {
+                    Country = company.Country,
+                    PhoneNumber = company.PhoneNumber,
+                    Name = company.Name,
+                    Id = company.Id
+                };
+                companiesWithoutOwners.Add(companyWithoutOwners);
+            }
+            return companiesWithoutOwners;
         }
         public async Task<Company> GetCompanyDetailsAsync(int id)
         {

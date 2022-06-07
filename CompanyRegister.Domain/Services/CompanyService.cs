@@ -1,4 +1,5 @@
-﻿using CompanyRegister.Domain.Interfaces;
+﻿using CompanyRegister.Domain.Dtos;
+using CompanyRegister.Domain.Interfaces;
 using CompanyRegister.Domain.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -18,7 +19,7 @@ namespace CompanyRegister.Domain.Services
         {
             return await _companyRepository.CreateCompanyAsync(givenCompany);
         }
-        public async Task<List<Company>> GetAllCompaniesAsync()
+        public async Task<List<CompanyWithoutOwners>> GetAllCompaniesAsync()
         {
             return await _companyRepository.GetAllCompaniesAsync();
         }
